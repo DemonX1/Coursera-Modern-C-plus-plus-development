@@ -190,17 +190,17 @@ No entries
 
 ##### Заготовки файлов #####
 
-[token.h](https://d3c33hcgiwev3.cloudfront.net/_1640ad9030c0d03640026eccd83d190f_token.h?Expires=1569456000&Signature=TUmAwx22mZCnDdAvPLJXM3dvr3K4kWeAqtQ1vtuttHR2gkOA2uFhPOsuMAKxgvfmkQ692azUfCGz-tHkgSZgwXixgU0qFimftNW5oHpteYyPyMrE9dNWV246dqgrMe3WX-dz5211y~K2quKVEVMVCJ3XtoW~BLh1M4LOyreio3M_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[token.h](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/token.h)
 
-[token.cpp](https://d3c33hcgiwev3.cloudfront.net/_1640ad9030c0d03640026eccd83d190f_token.cpp?Expires=1569456000&Signature=EMdr0nZWf3A7LVfAqtyElXM9304COG3aRHRxvQfTnK4567GDrbvCUI823yvOaRFXJ1Xw9BeMk8sT~AHGBqWd1d9JPFImNJqqFsVntsEutK46fPcc4o8RIv4xGjWEfI57i3LuJDLcL-Ptr4Ffu0qmHVCKVwJK1PZtjqi53hAFTRA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[token.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/token.cpp)
 
-[condition_parser.h](https://d3c33hcgiwev3.cloudfront.net/_1640ad9030c0d03640026eccd83d190f_condition_parser.h?Expires=1569456000&Signature=eF0opBCsJsvDyFzIrGyd3iVi9PiZJ~qGzmMn0fNvBhTnMmz4BX9GIfC3Jk1D1z8LNbvEiVhjq8qKIEfUu9Go-XCQjmYSVZ6NTEIUKoz4YX63-iisIoyYPO8mP6VZvXGHPSWeqYyGg5O3gscu6-1Ws4Nc-TTOOmFFb~baNq8yEf8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[condition_parser.h](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/condition_parser.h)
 
-[condition_parser.cpp](https://d3c33hcgiwev3.cloudfront.net/_1640ad9030c0d03640026eccd83d190f_condition_parser.cpp?Expires=1569456000&Signature=WyyBVACDjoQxKpPs2hRxbTioFPAhmXGWcQGJF4sIylcQ-edXqbl9~kOgsWLI1~dnazZDNaAWuZCXJV1h4rBAjjV~-K-jNAJopt0lsgsKWsM~2j17B4oLff1Mn31~Y1Oe~MA8HC5Q8g1AJlQsmQZQx2un7H-8FVyLpDdGowSx5U4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[condition_parser.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/condition_parser.cpp)
 
-[condition_parser_test.cpp](https://d3c33hcgiwev3.cloudfront.net/_8238a90130e316da9eabec79c0325d5d_condition_parser_test.cpp?Expires=1569456000&Signature=BGQXRV1u593Kk4CkctSB5mfdWlZJTqJhkftqG2k4RGDGsi1kk~i6O6HZy59C0oH6huewztokpO0a-y6VwVljVk0j7mbyHATr~Dxm2wOakGKqiBGRSShUcaXOUcS-528Asvex9nazsqSyQtzsfq2s31RTzTgdZredzEwYvVPPxuw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[condition_parser_test.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/condition_parser_test.cpp)
 
-[main.cpp](https://d3c33hcgiwev3.cloudfront.net/jObtWT8UEeiVZA69vv3iOA_8d4623803f1411e8b699e1a3b32ed99e_main.cpp?Expires=1569456000&Signature=enuwyfLnhExpo1ILOLo00m2TntnF~OHWAE8PL4r4QUGIEHqPVRkS1laWcW1mgPeEZ6GOXSpcLWKXlVccE3sBQIwthVyswRaMybtXpzWWJGLvL86iLf4-oXqo~fK3~6Ia3Ft85n0UpsypHhYq~BJFo3J647zV4d-hbYJuoPMLpnk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[main.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/main.cpp)
 
 Обратите внимание, что в файле main.cpp мы используем наш фреймворк юнит-тестов, для тестирования функций ParseCondition и ParseEvent. В процессе работы над проектом вы можете разрабатывать свои тесты и добавлять их в функцию TestAll.
 
@@ -208,10 +208,10 @@ No entries
 
 Для этой задачи есть набор подсказок, которые должны помочь вам с решением. Если вам не удаётся решить задачу и вы чувствуете, что у вас кончились идеи, вы можете ими воспользоваться. Но сначала обязательно попробуйте решить задачу без подсказок.
 
-[Подсказка 1](https://d3c33hcgiwev3.cloudfront.net/gOtr-MMSEeiHqw7NuTbPEA_81690050c31211e886d35bf31cd9316a__________-1.pdf?Expires=1569456000&Signature=frbPUyH9r3aHvM4MKhfG~5yRXgLZRkkGz~YhWJwtzVt7~YifEJQqx2E0INGPDSia2LkTqWI3I7GHMIIVXtX9fDALFo-J914xtU42ksyWwr4zKiV5HPS1DR~61TwUiND2tfMgc8T6YkgrYwq8wajAsM30QKKKjEosncgsWyYkHYc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Подсказка 1](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/Help-1.pdfv)
 
-[Подсказка 2](https://d3c33hcgiwev3.cloudfront.net/YhZmDsMTEeiZjg4gmeu3pg_62748b00c31311e88260477c31b38644__________-2.pdf?Expires=1569456000&Signature=Sotrv6-pmWR5cFUQiDj766CPwKonTHGkhofLacF2iwj2OpatI7Tqy3YseyC39vjmaQKcSrh3aTkbOikXEsxFzNzvUJzY6HJA1-VwiJBw203FqdZByjsdaDAf-6sh2pDQHwddMipV9h4cvroLBr2ApREd1VmXF0dByhdd5E3t0f4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Подсказка 2](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/Help-2.pdf)
 
-[Подсказка 3](https://d3c33hcgiwev3.cloudfront.net/YhcpcMMTEeiTIRLEW541JA_62774a20c31311e8ad3f8bdce68cc9f2__________-3.pdf?Expires=1569456000&Signature=AN0yzgeXJ~oGNz-02gtTZ1ALaxM9RqopDjsYFzVMPSkEl7APYO8ZrmERL8BcBjgilSLaE7DnHFw5WV0Gn2pwn1TqZgQpPZnBYFlvL8h3NB43cXJnDjJkRUU35UBBdpVtQaTeoWaJc8ZVgBLK6xSCdVd3BGKMkeBxnIA8YdHsu5g_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Подсказка 3](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/Help-3.pdf)
 
-[Подсказка 4](https://d3c33hcgiwev3.cloudfront.net/YhcB8MMTEeiQ4QpwNIMilg_62774a20c31311e8ba890b8f62b9d7b0__________-4.pdf?Expires=1569456000&Signature=TRMY-eZ8ABeWOVmKmc2qwhNZ1nUNDZlBLHULeyBIJGakJZf8~G9KGCdlcNeRgULueXJC8QZNAl8OdNt~QIxGq0MYn1vTeW7aPftDLc8ZCVD8fcs7w2WWn9aP8TCIgXYX9sW5KC~UdCGDB77EY5t-pgigTzbCIS96l8SAbAfUKz8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Подсказка 4](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%206/Tasks/1%20-%20Database/Template/Help-4.pdf)
