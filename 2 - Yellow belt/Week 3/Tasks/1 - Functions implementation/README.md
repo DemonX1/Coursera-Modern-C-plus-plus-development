@@ -3,7 +3,7 @@
 
 Вам дан заголовочный файл *sum_reverse_sort.h*, содержащий объявления трёх функций
 
-[sum_reverse_sort.h](https://d3c33hcgiwev3.cloudfront.net/_3c8d2ebb6fe1005588f14d1408481a9b_sum_reverse_sort.h?Expires=1559606400&Signature=ElIUvzs7jKSz5tu6jrFnD4tp3bZBKJzO8XfgIh8x5fIVoEzEORZL8z50XTnjbLlgEw5qUKdK1-6tEZrAkv97t7d2ZRmBpaOfpx2bQwT8d1bO~sc3ZILEVjjxnuEEWydui-1tOwW9GMC0-lu2Z9MKtK~M6p20AqkNUhqu3esgZPw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[sum_reverse_sort.h](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%203/Tasks/1%20-%20Functions%20implementation/Template/sum_reverse_sort.h)
 
 ```objectivec
 #pragma once

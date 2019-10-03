@@ -21,4 +21,4 @@ bool IsPalindrom(const string& s)
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку функции _IsPalindrom_.
 
-[test_palindrome.cpp](https://d3c33hcgiwev3.cloudfront.net/_2210278cd2f4385affd209cf03700f30_test_palindrome.cpp?Expires=1559088000&Signature=TRQs3ueLdjYZjsWr~lV~akXOtWXVeC2BwRa-yRqDelYxuBr1AyzzdBKuMc83Z1mUPWEe1hcwe-E~Z3AutAqgFY5mbyXZnxLkon3VhXrS~66JuvnRtX8qoO3oZMwV~WYP00fBH42SPTyHvhB7KrWE7mn1a6D1EE2qygZQdnnYF~0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[test_palindrome.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%202/Tasks/5%20-%20Test%20isPalindrom%20function/Template/test_palindrome.cpp)

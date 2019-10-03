@@ -2,16 +2,16 @@
 
 
 ##### Введение #####
-В курсе «Белый пояс по С++» у нас была задача «[Автобусные остановки — 1](https://www.coursera.org/learn/c-plus-plus-white/programming/Gi9dw/avtobusnyie-ostanovki-1)». В этой задаче вам будет дано её правильное решение, целиком содержащееся внутри функции _main_. Вам надо будет выполнить декомпозицию этого решения на заранее заданные блоки так, чтобы получившаяся программа так же корректно решала задачу. Условие задачи «Автобусные остановки — 1» приведено ниже.
+В курсе «Белый пояс по С++» у нас была задача «[Автобусные остановки — 1](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%202/Tasks/13%20-%20Bus%20stops%201)». В этой задаче вам будет дано её правильное решение, целиком содержащееся внутри функции _main_. Вам надо будет выполнить декомпозицию этого решения на заранее заданные блоки так, чтобы получившаяся программа так же корректно решала задачу. Условие задачи «Автобусные остановки — 1» приведено ниже.
 
 ##### Исходные файлы #####
 Авторское решение этой задачи содержится в файле
 
-[correct.cpp](https://d3c33hcgiwev3.cloudfront.net/_ba1e32e3cc261f122b1b272c441bae30_correct.cpp?Expires=1559001600&Signature=hTs0tV5rps4kykytdefRJxAFio-oTsXkW9PHslGmR0hZuvPx6NQxCcf~MLihw3IDjAG-yrrR2XdS6Zk04VpJsT64TC9asMkWJW~uHTLcgmsNnZo3INzRRkh0keelipGVb2V0C759wD1u0IyBURbXyKu5sTWGhb0HWnS57~CVuCQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[correct.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%202/Tasks/1%20-%20Program%20decomposition/Template/correct.cpp)
 
 Кроме того, вам дан файл
 
-[starter.cpp](https://d3c33hcgiwev3.cloudfront.net/_889d5f03c308eeac67b75b9072b0f0ca_starter.cpp?Expires=1559001600&Signature=SWmW0JK6cHAVqxaUrkalAS49zpGi6mYOTiGd5zmS4mqdU0~Bdjl6p3h0p~-ERfkZsI2i-6HwNcHTHpdREu63OOLcxx-V1PcfOCkfIs2N6quc~3-DiVqwECxngsIOIechcZpNpT3PV8Z46CjghrDSfvHbg75LEG72yz-EpUW1vQc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[starter.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%202/Tasks/1%20-%20Program%20decomposition/Template/starter.cpp)
 
 который содержит заготовки классов и функций. __Не меняя функцию main__, вам надо реализовать эти классы и функции так, чтобы получившаяся программа решала задачу «Автобусные остановки — 1».
 

@@ -1,7 +1,7 @@
 #### Тренировочное задание по программированию: Имена и фамилии — 4 ####
 
 
-*Решите задачу [«Имена и фамилии — 1»](https://www.coursera.org/learn/c-plus-plus-white/programming/4FQn4/imiena-i-familii-1) более эффективно, использовав двоичный поиск в методе Person::GetFullName. Напомним условие задачи.*
+*Решите задачу [«Имена и фамилии — 1»](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%203/Tasks/4%20-%20Names%20and%20surnames%20-%201) более эффективно, использовав двоичный поиск в методе Person::GetFullName. Напомним условие задачи.*
 
 Реализуйте класс для человека, поддерживающий историю изменений человеком своих фамилии и имени.
 ```objectivec

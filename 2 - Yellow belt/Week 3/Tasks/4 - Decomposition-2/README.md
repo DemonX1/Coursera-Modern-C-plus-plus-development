@@ -1,7 +1,7 @@
 #### Задание по программированию: Декомпозиция программы — 2 ####
 
 
-В задаче [«Декомпозиция программы»](https://www.coursera.org/learn/c-plus-plus-yellow/programming/k6Xm2/diekompozitsiia-proghrammy) мы разбили монолитный код на набор функций и классов. Теперь мы сделаем ещё один шаг и разделим нашу программу на несколько файлов. В этой задаче вам нужно создать проект, состоящий из следующих файлов:
+В задаче [«Декомпозиция программы»](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/2%20-%20Yellow%20belt/Week%202/Tasks/1%20-%20Program%20decomposition) мы разбили монолитный код на набор функций и классов. Теперь мы сделаем ещё один шаг и разделим нашу программу на несколько файлов. В этой задаче вам нужно создать проект, состоящий из следующих файлов:
 
 1. *query.h*, в него кладём:
 * enum class QueryType
@@ -31,4 +31,4 @@
 
 Заготовка файла *main.cpp*:
 
-[main.cpp](https://d3c33hcgiwev3.cloudfront.net/_253c2923ab70e0bccccc3007c3d1a673_main.cpp?Expires=1559606400&Signature=GtzzF0p6XAA9S4Yw-xpSM4LrMwW7CdoHJolC0YORxqdyxLDuOVp~kJdiAl4ZUcXyyBQPz2IaXHOzk4zaQ6tcI5NCxUejJIIa-7FVX5z0K2e57lYIWxi~oE7Lww2WSZGmdQpRPzAMcm8es6EuYPgHOfn5-Z9jvtTDBJUxc4r2VPA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[main.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%203/Tasks/4%20-%20Decomposition-2/Template/main.cpp)

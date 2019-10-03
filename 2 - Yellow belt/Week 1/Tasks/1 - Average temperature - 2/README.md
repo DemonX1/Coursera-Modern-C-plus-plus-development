@@ -1,7 +1,6 @@
 #### Задание по программированию: Средняя температура — 2 ####
 
-
-_Решите задачу «[Средняя температура](https://www.coursera.org/learn/c-plus-plus-white/programming/oGdDI/sriedniaia-tiempieratura)» в других ограничениях на входные данные_.
+_Решите задачу «[Средняя температура](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%202/Tasks/8%20-%20Average%20temperature)» в других ограничениях на входные данные_.
 
 Даны значения температуры, наблюдавшиеся в течение N подряд идущих дней. Найдите номера дней (в нумерации с нуля) со значением температуры выше среднего арифметического за все N дней.
 

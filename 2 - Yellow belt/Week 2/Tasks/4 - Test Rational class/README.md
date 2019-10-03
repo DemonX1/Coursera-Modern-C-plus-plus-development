@@ -24,7 +24,7 @@ public:
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку класса _Rational_.
 
-[test_rational.cpp](https://d3c33hcgiwev3.cloudfront.net/_de8ebd63ad7a6913565dbd0f6425ecdc_test_rational.cpp?Expires=1559088000&Signature=YxpRPEdyuNcJp6Ju2ApbYE7hkBRuqF-3VWWW0HSobf0Tz8suXG5TNv81OlLZYCqlauE5-cpZJq~ildKKLQH7a9mwBmJyA-XVijgIU1lRIu5258j3FvrRztPLCBR4TFTXRowRHm2x7d0Gx-xZAG7awOkMUNPtzzMTjE857PR4bmM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[test_rational.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%202/Tasks/4%20-%20Test%20Rational%20class/Template/test_rational.cpp)
 
 ##### Примечание #####
 Перед отправкой вашего файла убедитесь, что он не содержит класса _Rational_. В противном случае вы получите ошибку компиляции. Наша тестирующая система умеет игнорировать функции в файлах (поэтому, например, в задаче "Тесты для функции _IsPalindrom_" необязательно удалять функцию _IsPalindrom_), но не умеет это делать для классов.

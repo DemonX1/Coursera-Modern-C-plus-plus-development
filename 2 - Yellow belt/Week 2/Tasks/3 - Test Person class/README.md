@@ -2,11 +2,11 @@
 
 
 ##### Задача ####
-В первом курсе «Белый пояс по С++» у нас была задача «[Имена и фамилии — 1](https://www.coursera.org/learn/c-plus-plus-white/programming/4FQn4/imiena-i-familii-1)». В ней надо было разработать класс _Person_, поддерживающий историю изменений человеком своих фамилии и имени. В данной задаче вам надо разработать юнит-тесты на реализацию класса _Person_. При разработке тестов учитывайте ограничения, которые накладывает на класс _Person_ условие задачи «Имена и фамилии — 1».
+В первом курсе «Белый пояс по С++» у нас была задача «[Имена и фамилии — 1](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/tree/master/1%20-%20White%20belt/Week%203/Tasks/4%20-%20Names%20and%20surnames%20-%201)». В ней надо было разработать класс _Person_, поддерживающий историю изменений человеком своих фамилии и имени. В данной задаче вам надо разработать юнит-тесты на реализацию класса _Person_. При разработке тестов учитывайте ограничения, которые накладывает на класс _Person_ условие задачи «Имена и фамилии — 1».
 
 Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку класса.
 
-[test_person.cpp](https://d3c33hcgiwev3.cloudfront.net/_4a08b230ff3862815002f561ce320ca0_test_person.cpp?Expires=1559088000&Signature=dBKyIB6O3f8szAXbRCpy9vzID0ur02GSsO5VsuqpV1zu9gMGbslwFW7SI5c42~y5QLHgp7ucQaY2Jgf9eVF4WeSz-UBASvZcDE87wFbW2lxdJ8myNKQkbaCJ6vhuZWgkiCdvasCWmoKtJ9QLlF187sW-INFtuujO9PBUMNr7qI4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[test_person.cpp](https://github.com/VulpesCorsac/Coursera-Modern-C-plus-plus-development/blob/master/2%20-%20Yellow%20belt/Week%202/Tasks/3%20-%20Test%20Person%20class/Template/test_person.cpp)
 
 ##### Условие задачи «Имена и фамилии — 1» #####
 Реализуйте класс для человека, поддерживающий историю изменений человеком своих фамилии и имени.
